@@ -1,0 +1,14 @@
+Z:\wrap\wraap\bin\Debug\net10.0\wraap.exe
+Z:\wrap\wraap\bin\Debug\net10.0\wraap.deps.json
+Z:\wrap\wraap\bin\Debug\net10.0\wraap.runtimeconfig.json
+Z:\wrap\wraap\bin\Debug\net10.0\wraap.dll
+Z:\wrap\wraap\bin\Debug\net10.0\wraap.pdb
+Z:\wrap\wraap\obj\Debug\net10.0\wraap.GeneratedMSBuildEditorConfig.editorconfig
+Z:\wrap\wraap\obj\Debug\net10.0\wraap.AssemblyInfoInputs.cache
+Z:\wrap\wraap\obj\Debug\net10.0\wraap.AssemblyInfo.cs
+Z:\wrap\wraap\obj\Debug\net10.0\wraap.csproj.CoreCompileInputs.cache
+Z:\wrap\wraap\obj\Debug\net10.0\wraap.dll
+Z:\wrap\wraap\obj\Debug\net10.0\refint\wraap.dll
+Z:\wrap\wraap\obj\Debug\net10.0\wraap.pdb
+Z:\wrap\wraap\obj\Debug\net10.0\wraap.genruntimeconfig.cache
+Z:\wrap\wraap\obj\Debug\net10.0\ref\wraap.dll
